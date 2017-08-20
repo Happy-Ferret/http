@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["CONNECT","CONNECT"],["DELETE","DELETE"],["GET","GET"],["HEAD","HEAD"],["OPTIONS","OPTIONS"],["PATCH","PATCH"],["POST","POST"],["PUT","PUT"],["TRACE","TRACE"]],"struct":[["InvalidMethod","A possible error value when converting `Method` from bytes."],["Method","The Request Method (VERB)"]]});

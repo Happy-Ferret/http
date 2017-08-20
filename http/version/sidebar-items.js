@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["HTTP_09","`HTTP/0.9`"],["HTTP_10","`HTTP/1.0`"],["HTTP_11","`HTTP/1.1`"],["HTTP_2","`HTTP/2.0`"]],"struct":[["Version","Represents a version of the HTTP spec."]]});
